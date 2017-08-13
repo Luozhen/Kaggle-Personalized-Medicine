@@ -1,15 +1,15 @@
 # Kaggle-Personalized-Medicine
 A match about Personalized Medicine: Redefining Cancer Treatment -- BY: sneffort, Luozhen
 
-Directory structure:
-| - Kaggle-Personalized-Medicine
-	| - code
-		| - exploratory data analysis
-		| - feature engineering
-		| - model
-	| - data
-	| - doc
-	| - README.md
+Directory structure:  
+| - Kaggle-Personalized-Medicine  
+	| - code  
+		| - exploratory data analysis  
+		| - feature engineering  
+		| - model  
+	| - data  
+	| - doc  
+	| - README.md  
 
 Precautions:
 1. You should record anything you want in doc!
