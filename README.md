@@ -11,8 +11,6 @@ Directory structure:
 	| - doc
 	| - README.md
 
-$\alpha$
-
 Precautions:
 1. You should record anything you want in doc!
 2. Don't push data to remote.
