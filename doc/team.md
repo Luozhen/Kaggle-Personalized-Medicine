@@ -13,6 +13,7 @@ sneffort and Luozhen
 ### 第一步：按空格/符号分词
 
 比如说用正则表达式很容易
+用正则表达式很容易
 
 ```
   pattern = r'''(?x)    # set flag to allow verbose regexps
