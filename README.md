@@ -14,4 +14,4 @@ Directory structure:
 Precautions:
 1. You should record anything you want in doc!
 2. Don't push data to remote.
-3. Python 3.5.x; R 3.4.1.
+3. Python 3.6.x; R 3.4.1.
